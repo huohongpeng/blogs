@@ -44,10 +44,10 @@ HPM6800 系列 MCU 是上海先楫半导体科技有限公司推出的一款高�
 
 先楫的官网可以直接下载到各类芯片资料、开发板资料以及软件SDK的资料。先楫主打的是RISC-V的MCU，也继承了RISC-V开放性，所以资料开放程度非常的高，对于开发者来讲是比较方便的。**这里吐槽一下其他很多国内厂家，总把资料捂得严严实实的，开放程度非常的低**
 
-> 先楫官网: https://www.hpmicro.com/  
-> 网盘资料: 链接：https://pan.baidu.com/s/1XGChrZrARTMxA2kannQTgg?pwd=hp11  提取码：hp11  
-> SDK仓库: https://gitee.com/hpmicro/hpm_sdk  
-> 视频资料: https://space.bilibili.com/1306310554 或者b站搜索`先楫半导体HPMicro`  
+- 先楫官网: https://www.hpmicro.com/  
+- 网盘资料: 链接：https://pan.baidu.com/s/1XGChrZrARTMxA2kannQTgg?pwd=hp11  提取码：hp11  
+- SDK仓库: https://gitee.com/hpmicro/hpm_sdk  
+- 视频资料: https://space.bilibili.com/1306310554 或者b站搜索`先楫半导体HPMicro`  
 
 *注意：我对比了一下官网和网盘的资料，看上去网盘的资料比官网的更新要滞后*
 
